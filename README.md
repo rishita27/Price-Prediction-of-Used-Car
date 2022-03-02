@@ -149,6 +149,6 @@ b. Copy the Code to AWS S3 bucket from your local system and than copy the proje
 
 # Contact 📞
 
-#### If you have any doubt or want to contribute to this project feel free to email me or drop your message on [LinkedIn](https://www.linkedin.com/in/manjinder-singh-a23aa3149/)
+#### If you have any doubt or want to contribute to this project feel free to email me or drop your message on [LinkedIn](https://www.linkedin.com/in/rishita-kotiyal/)
 
 
