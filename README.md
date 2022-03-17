@@ -56,13 +56,13 @@ Some important parameters while building the regressor are:
 
 # Feature Importance 💥
 After analysing the dataset, I have used 10 prominent features which will decide the price of used cars. Among these 10 features, every feature is not equally important. Some of the features have more weightage while others have less weightage in calculating the price. To identify the importance of each feature I have used the feature_importances_ parameter of the model. This parameter returns the weightage of each feature.
-![image](https://github.com/RishitaKotiyal/Used-Cars-Price-Evaluation-Model/blob/master/results/10.png)
+![image](https://github.com/ManjinderSingh3/Used-Cars-Price-Evaluation-Model/blob/master/results/10.png)
 
 From the above figure, it is evident that Manufacturing Year has the highest impact in calculating the price followed by Odometer rating. Year column/feature alone has a weightage of 41% which is quite significant. Drive (4wd, fwd, rwd) has also a good impact in deciding price. Rest of the features have less than 10% weightage.
 
 # Advance Price Suggestion 🔦
 While testing the model, I got R2_Score of 92.4%. So, to fix this 10% error rate, model will provide an advance feature where user will get a broad price range which they can consider while buying the vehicle. Range of 10% on the upper side and 10% on the lower side of the Predicted price will be available to customer's to help them in making decision.
-![image](https://github.com/RishitaKotiyal/Used-Cars-Price-Evaluation-Model/blob/master/results/11.png)
+![image](https://github.com/ManjinderSingh3/Used-Cars-Price-Evaluation-Model/blob/master/results/11.png)
 
 # How to run code locally 🛠️
 - Before following below mentioned steps please make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [pycharm](https://www.jetbrains.com/pycharm/download) and [git-lfs](https://git-lfs.github.com) installed on your system.
