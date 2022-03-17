@@ -66,7 +66,7 @@ While testing the model, I got R2_Score of 92.4%. So, to fix this 10% error rate
 
 # How to run code locally 🛠️
 - Before following below mentioned steps please make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [pycharm](https://www.jetbrains.com/pycharm/download) and [git-lfs](https://git-lfs.github.com) installed on your system.
-- Clone the complete project with `git clone https://github.com/ManjinderSingh3/Used-Cars-Price-Evaluation-Model.git` or you can just download the code and unzip it.
+- Clone the complete project with `git clone https://github.com/RishitaKotiyal/Used-Cars-Price-Evaluation-Model.git` or you can just download the code and unzip it.
 - Install all libraries mentioned in requirement.txt file
 - As the pickle file is greater than 100 Mb so I have used git-lfs for this file. While clonning if you don't have git-lfs installed on your system than run `prediction_models.py` file to build the model and save it as .pkl file.
 - Now, finally run the project with
