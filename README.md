@@ -62,7 +62,7 @@ From the above figure, it is evident that Manufacturing Year has the highest imp
 
 # Advance Price Suggestion 🔦
 While testing the model, I got R2_Score of 92.4%. So, to fix this 10% error rate, model will provide an advance feature where user will get a broad price range which they can consider while buying the vehicle. Range of 10% on the upper side and 10% on the lower side of the Predicted price will be available to customer's to help them in making decision.
-![image](https://github.com/ManjinderSingh3/Used-Cars-Price-Evaluation-Model/blob/master/results/11.png)
+![image](https://github.com/RishitaKotiyal/Used-Cars-Price-Evaluation-Model/blob/master/results/11.png)
 
 # How to run code locally 🛠️
 - Before following below mentioned steps please make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [pycharm](https://www.jetbrains.com/pycharm/download) and [git-lfs](https://git-lfs.github.com) installed on your system.
@@ -98,7 +98,7 @@ b. Copy the Code to AWS S3 bucket from your local system and than copy the proje
 
 ### a. Clone the Project from Github repository
 - Coneecting to EC2 instance from local system as per steps mentioned above.
-- Clone the complete project with `git clone https://github.com/ManjinderSingh3/Used-Cars-Price-Evaluation-Model.git` on EC2 instance.
+- Clone the complete project with `git clone https://github.com/RishitaKotiyal/Used-Cars-Price-Evaluation-Model.git` on EC2 instance.
 - `cd <project-directory>`
 - Install pip3 and required dependencies using the below commands.
   ```
